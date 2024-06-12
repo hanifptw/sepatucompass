@@ -1,16 +1,16 @@
-## Sepatu Compass
+# Sepatu Compass
 
-Online shop for Sepat Compass
+Online shop for Sepatu Compass
 
-# Link:
+## Link:
 
 Website: https://sepatucompass.hanifptw.com
 
-# Inspirations:
+## Inspirations:
 
 https://sepatucompass.com/
 
-# Features:
+## Features:
 
 - Home page
 
@@ -37,7 +37,7 @@ https://sepatucompass.com/
   - size selection
   - add to cart button
 
-- Shopping cart sheet
+- Shopping cart Page
 
   - Product items to buy
   - Image, name, price, quantity, size, total (price \* quantity)

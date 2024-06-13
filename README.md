@@ -50,3 +50,30 @@ https://sepatucompass.com/
     - Product items to buy
     - Grand total of all product items to buy
   - Place order / transaction is being processed
+
+## UI Design
+
+figma : https://www.figma.com/design/m7cbiLyWbwGtXil7GyWFaq/Sepatu-Compass
+
+### Home Page
+
+<img src="img/home.webp" width= "500">
+
+### Product Page
+
+<img src="img/product.webp" width= "500">
+
+### Detail Page
+
+<img src="img/detail.webp" width= "500">
+
+### Cart Page
+
+<img src="img/cart.webp" width= "500">
+
+### Payment Page
+
+<img src="img/payment.webp" width= "500">
+
+## Entity Relationship Diagram(ERD)
+

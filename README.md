@@ -5,10 +5,11 @@ Online shop for Sepatu Compass
 ## Link:
 
 Website : https://sepatucompass.hanifptw.com
-backend :
 
 github general : https://github.com/hanifptw/sepatucompass
+
 github frontend : https://github.com/hanifptw/sepatucompass-frontend
+
 github backend : https://github.com/hanifptw/sepatucompass-backend
 
 ## Inspirations:

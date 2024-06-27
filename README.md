@@ -4,7 +4,12 @@ Online shop for Sepatu Compass
 
 ## Link:
 
-Website: https://sepatucompass.hanifptw.com
+Website : https://sepatucompass.hanifptw.com
+backend :
+
+github general : https://github.com/hanifptw/sepatucompass
+github frontend : https://github.com/hanifptw/sepatucompass-frontend
+github backend : https://github.com/hanifptw/sepatucompass-backend
 
 ## Inspirations:
 
@@ -77,3 +82,4 @@ figma : https://www.figma.com/design/m7cbiLyWbwGtXil7GyWFaq/Sepatu-Compass
 
 ## Entity Relationship Diagram(ERD)
 
+<img src="img/db-sepatu-compass.png" width= "500">
